@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brooklyrojas.github.io/CinemAdvice/sitemap.xml
