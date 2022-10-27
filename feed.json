@@ -5,6 +5,7 @@
     "home_page_url": "https://brooklyrojas.github.io/CinemAdvice",
     "feed_url": "https://brooklyrojas.github.io/CinemAdvice/feed.json",
     "user_comment": "",
+    "icon": "https://brooklyrojas.github.io/CinemAdvice/media/website/cinema-1-870x600.jpeg",
     "author": {
         "name": "Brookly Rojas"
     },
@@ -14,14 +15,14 @@
             "url": "https://brooklyrojas.github.io/CinemAdvice/bienvenue-sur-cinemadvice.html",
             "title": "Bienvenue sur CinemAdvice",
             "summary": "A propos de CinemAdvice Ce site est tenue par des amateurs de cinéma qui se réjouissent de partager leurs astuces, conseils et autres utilités aux passsionnés de cinéma. Alors n'hésitez pas à vous perdre parmis les divers avis de la team sur les sorties de&hellip;",
-            "content_html": "<h1>A propos de <span style=\"color: #000000;\">CinemAdvice</span></h1>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://brooklyrojas.github.io/CinemAdvice/media/posts/1/gallery/cinema-1-870x600.jpeg\" data-size=\"870x600\"><img loading=\"lazy\" src=\"https://brooklyrojas.github.io/CinemAdvice/media/posts/1/gallery/cinema-1-870x600-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"497\"></a>\n<figcaption>Source : https://www.wedemain.fr/decouvrir/cinema-4-festivals-a-decouvrir-en-ligne/</figcaption>\n</figure>\n</div></div>\n<p>Ce site est tenue par des amateurs de cinéma qui se réjouissent de partager leurs astuces, conseils et autres utilités aux passsionnés de cinéma. </p>\n<p>Alors n'hésitez pas à vous perdre parmis les divers avis de la team sur les sorties de l'années, les futures sorties, les coups de coeur, et les place to be. Tout ceci par thématique des genres :</p>\n<h2>Animation</h2>\n<h2>Action / Aventure</h2>\n<h2>Biopic</h2>\n<h2>Comédie</h2>\n<h2>Comédie dramatique</h2>\n<h2>Comédie romantique </h2>\n<h2>Court-métrage</h2>\n<h2>Documentaire</h2>\n<h2>Drame</h2>\n<h2>Fantastique</h2>\n<h2>Guerre</h2>\n<h2>Historique</h2>\n<h2>Horreur</h2>\n<h2>Musical</h2>\n<h2>Retransmission</h2>\n<h2>Science-Fiction</h2>\n<h2>Thriller</h2>\n<h2>Western</h2>\n<h2> </h2>\n<p> </p>\n<h2> </h2>",
+            "content_html": "<h1>A propos de <span style=\"color: #f1c40f;\">CinemAdvice</span></h1>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://brooklyrojas.github.io/CinemAdvice/media/posts/1/gallery/cinema-1-870x600.jpeg\" data-size=\"870x600\"><img loading=\"lazy\" src=\"https://brooklyrojas.github.io/CinemAdvice/media/posts/1/gallery/cinema-1-870x600-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"497\"></a>\n<figcaption>Source : https://www.wedemain.fr/decouvrir/cinema-4-festivals-a-decouvrir-en-ligne/</figcaption>\n</figure>\n</div></div>\n<p>Ce site est tenue par des amateurs de cinéma qui se réjouissent de partager leurs astuces, conseils et autres utilités aux passsionnés de cinéma. </p>\n<p>Alors n'hésitez pas à vous perdre parmis les divers avis de la team sur les sorties de l'années, les futures sorties, les coups de coeur, et les place to be. Tout ceci par thématique des genres :</p>\n<h2>Animation</h2>\n<h2>Action / Aventure</h2>\n<h2>Biopic</h2>\n<h2>Comédie</h2>\n<h2>Comédie dramatique</h2>\n<h2>Comédie romantique </h2>\n<h2>Court-métrage</h2>\n<h2>Documentaire</h2>\n<h2>Drame</h2>\n<h2>Fantastique</h2>\n<h2>Guerre</h2>\n<h2>Historique</h2>\n<h2>Horreur</h2>\n<h2>Musical</h2>\n<h2>Retransmission</h2>\n<h2>Science-Fiction</h2>\n<h2>Thriller</h2>\n<h2>Western</h2>\n<h2> </h2>\n<p> </p>\n<h2> </h2>",
             "author": {
                 "name": "Brookly Rojas"
             },
             "tags": [
             ],
             "date_published": "2022-10-27T21:12:12+02:00",
-            "date_modified": "2022-10-28T00:57:29+02:00"
+            "date_modified": "2022-10-28T01:13:18+02:00"
         }
     ]
 }
